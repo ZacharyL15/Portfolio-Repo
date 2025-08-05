@@ -20,3 +20,8 @@ Each project is organized in its own folder and includes:
 > Performed comprehensive exploratory data analysis on a proprietary dataset during a data science internship, uncovering key insights, assessing data quality, and guiding feature engineering for downstream modeling.
 
 **Skills:** Python, pandas, numpy, matplotlib, seaborn, data visualization, missing data analysis, correlation analysis
+
+### 3. [🔄 Refresh Update Failure Modeling](./refresh-update-failure-modeling/)
+> Built classification models including XGBoost and hyperparameter tuning to predict data pipeline refresh failures. Used SHAP for interpretability and KQL for data querying.
+
+**Skills:** Python, pandas, scikit-learn, XGBoost, SHAP, hyperparameter tuning, KQL, exploratory data analysis
