@@ -16,3 +16,7 @@ Each project is organized in its own folder and includes:
 
 **Skills:** Python, pandas, scikit-learn, linear/logistic regression, cross-validation, evaluation metrics, healthcare data analysis
 
+### 2. [📊 Internship Exploratory Data Analysis (EDA)](./internship-eda-project/)
+> Performed comprehensive exploratory data analysis on a proprietary dataset during a data science internship, uncovering key insights, assessing data quality, and guiding feature engineering for downstream modeling.
+
+**Skills:** Python, pandas, numpy, matplotlib, seaborn, data visualization, missing data analysis, correlation analysis
