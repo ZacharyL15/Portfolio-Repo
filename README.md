@@ -8,3 +8,11 @@ Each project is organized in its own folder and includes:
 - Visualizations, model results, and commentary on findings
 
 ---
+
+## 🔍 Projects
+
+### 1. [🏥 Predictive Modeling in Healthcare Outcomes](./healthcare-prediction-project/)
+> Built regression and classification models using real-world clinical datasets to predict patient survival and disease presence. Focused on interpretability, feature scaling, and model evaluation across two healthcare prediction tasks.
+
+**Skills:** Python, pandas, scikit-learn, linear/logistic regression, cross-validation, evaluation metrics, healthcare data analysis
+
